@@ -131,3 +131,11 @@ html {
     Background: #C5965F;
     font-weight: 400;
 }
+
+.btn {
+    background: red;
+    font-size: 16px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
